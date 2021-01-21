@@ -17,6 +17,9 @@ dropout layer. Apart from that, the last 5 layers of the VGG model were made tra
 
 Stick to these versions of dependencies, especially Keras and Tensorflow, if you want to directly use the scripts.
 
+## Todo
+- Switch to PyTorch
+
 ## Run
 - Run the custom 4-layer network and transfer learning network using Python.
 - Note if you do not have GPU properly setup with Tensorflow, the network would take hours to train. With GPU, training
