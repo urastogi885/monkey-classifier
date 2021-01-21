@@ -1,1 +1,1 @@
-# monkey-classifier
+# Monkey Classifier
